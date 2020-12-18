@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_okhttp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn_okhttp" />
+
+    <TextView
+        android:id="@+id/tv_okhttp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/btn_pull"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn_pull" />
+
+    <Button
+        android:id="@+id/btn_sax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn_sax" />
+
+    <Button
+        android:id="@+id/btn_josnobject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn_josnobject" />
+
+    <Button
+        android:id="@+id/btn_gson"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn_gson" />
+</LinearLayout>

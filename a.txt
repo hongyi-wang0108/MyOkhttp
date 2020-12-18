@@ -1,0 +1,17 @@
+<apps>
+    <app>
+        <id>1<id>
+        <name>map1<name>
+        <version>1.0<version>
+    </app>
+    <app>
+        <id>2<id>
+        <name>map2<name>
+        <version>2.0<version>
+    </app>
+    <app>
+        <id>3<id>
+        <name>map3<name>
+        <version>3.0<version>
+    </app>
+</apps>
